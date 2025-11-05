@@ -17,9 +17,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1; padding-right: 20px;">
 
 🎯 Turning ambitious ideas into powerful, high-impact mobile experiences.  
 
@@ -29,14 +29,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 🎯 Driven by curiosity, focus, and the constant desire to create meaningful work.  
 
-</td>
-<td>
+</div>
 
+<div>
 <a href="#"><img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="200" /></a>
+</div>
 
-</td>
-</tr>
-</table>
+</div>
+
 
 
 
