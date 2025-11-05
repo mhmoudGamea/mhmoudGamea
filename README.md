@@ -5,15 +5,16 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p align="center">
   <!-- Gmail -->
-  <a href="mailto:mahmoudgamea35@gmail.com">
+  <a href="mailto:mahmoudgamea35@gmail.com" target="_blank">
     <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mahmoud-gamea-7537311a4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" style="border-radius: 8px; padding: 3px; background-color:#0A66C2;" />
   </a>
 </p>
+
 
 
 
