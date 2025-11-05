@@ -70,7 +70,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## Contact
 <!-- Gmail -->
 <a href="mailto:mahmoudgamea35@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email Me" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email Me" width="40" height="40"/>
 </a>
 
 <!-- LinkedIn -->
