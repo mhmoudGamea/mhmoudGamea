@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Mahmoud Gamea</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-**`Mobile Application Developer (Flutter)`**  ![Profile Views](https://komarev.com/ghpvc/?username=mhmoudGamea&color=0e75b6&style=flat)
+**`Mobile Application Developer (Flutter)`**
 
 ## About Me
 - Turning ambitious ideas into powerful, high-impact mobile experiences.  
@@ -71,13 +71,16 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmoudGamea&show_icons=true&theme=tokyonight)
 
 ## Contact
-<!-- Gmail -->
-<a href="mailto:mahmoudgamea35@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email Me" width="40" height="40"/>
-</a>
-&nbsp;
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/mahmoud-gamea-7537311a4" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40"/>
-</a>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mahmoudgamea35@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-gamea-7537311a4) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/marchaiil?igsh=Y3lnM2loaHBjdDQw)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=mhmoudGamea&color=0e75b6&style=flat)
+
+</div>
+
 
