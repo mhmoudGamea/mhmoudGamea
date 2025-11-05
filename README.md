@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - Driven by curiosity, focus, and the constant desire to create meaningful work. 
  
 ## Skill stack  
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,AndroidStudio,apple,postman,kotlin,php,nginx,laravel&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,postman,kotlin,php,nginx,laravel&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: Github Actions, Mobile Testing.
 
