@@ -10,7 +10,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - Committed to excellence, innovation, and pushing every project beyond limits.  
 
-- Driven by curiosity, focus, and the constant desire to create meaningful work.  
+- Driven by curiosity, focus, and the constant desire to create meaningful work. 
+ 
+## Skill stack  
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,android,apple,postman,kotlin,php,nginx,laravel,stripe&theme=light)]()
+
+**Also comfortable with**: Github Actions, Mobile Testing.
 
 ## Contact
   <!-- Gmail -->
