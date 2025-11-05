@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - Driven by curiosity, focus, and the constant desire to create meaningful work. 
  
 ## Skill stack  
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,kotlin,postman,figma,php,nginx,laravel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,kotlin,postman,github,figma,php,nginx,laravel&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: Github Actions, Mobile Testing.
 
@@ -68,11 +68,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </table>
 
 ## Contact
-  <!-- Gmail -->
-  <a href="mailto:mahmoudgamea35@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mahmoud-gamea-7537311a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<!-- Gmail -->
+<a href="mailto:mahmoudgamea35@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email Me" width="40" height="40"/>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mahmoud-gamea-7537311a4" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="40" height="40"/>
+</a>
