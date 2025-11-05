@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Mahmoud Gamea</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-**`Mobile Application Developer (Flutter)`**
+**`Mobile Application Developer (Flutter)`**  ![Profile Views](https://komarev.com/ghpvc/?username=mhmoudGamea&color=0e75b6&style=flat)
 
 ## About Me
 - Turning ambitious ideas into powerful, high-impact mobile experiences.  
