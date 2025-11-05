@@ -17,47 +17,59 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 **Also comfortable with**: Github Actions, Mobile Testing.
 
-## Projects – Showcase
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="50%">
+      <a href="https://github.com/mhmoudGamea/mandoop-case-study/blob/main/mandoop.png?raw=true">
+        <img src="https://github.com/mhmoudGamea/mandoop-case-study/blob/main/mandoop.png?raw=true"
+             alt="Mandoop ISP Service Management Application"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Mandoop ISP Service Management Application</b><br/>
+      <sub>Flutter app for ISP billing integrated with SASv4, supporting authentication and invoices.</sub><br/>
+      🔗 <a href="https://github.com/mhmoudGamea/mandoop-case-study">Repo</a>
+      <br/>
+      <sub>Tags: flutter, websocket, mvvm</sub>
+    </td>
 
-<!-- Project 1 -->
-<a href="https://github.com/mhmoudGamea/mandoop-case-study">
-  <img src="https://github.com/mhmoudGamea/mandoop-case-study/blob/main/mandoop.png?raw=true"
-       alt="Mandoop ISP Service Management Application"
-       style="width:100%; max-width:400px; height:auto; object-fit:cover;"/>
-</a>
-<br/>
-**Mandoop ISP Service Management Application**  
-<sub>Flutter app for ISP billing integrated with SASv4, supporting authentication and invoices.</sub><br/>
-🔗 <a href="https://github.com/mhmoudGamea/mandoop-case-study">Repo</a><br/>
-<sub>Tags: flutter, websocket, mvvm</sub>
+    <!-- Project 2 -->
+    <td align="center" width="50%">
+      <a href="https://github.com/mhmoudGamea/circle/blob/main/demo_image/circle.png?raw=true">
+        <img src="https://github.com/mhmoudGamea/circle/blob/main/demo_image/circle.png?raw=true"
+             alt="Circle Ecommerce App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Circle Ecommerce App</b><br/>
+      <sub>Dynamic e-commerce app with phone auth, real-time cart/order management, and flexible payments.</sub><br/>
+      🔗 <a href="https://github.com/mhmoudGamea/circle">Repo</a>
+      <br/>
+      <sub>Tags: flutter, auth, firebase, apis, provider</sub>
+    </td>
+  </tr>
 
----
+  <tr>
+    <!-- Project 3 -->
+    <td align="center" width="50%">
+      <a href="https://github.com/mhmoudGamea/night-movie/blob/main/demo_image/night_movie.png?raw=true">
+        <img src="https://github.com/mhmoudGamea/night-movie/blob/main/demo_image/night_movie.png?raw=true"
+             alt="Night Movies App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Night Movies App</b><br/>
+      <sub>Movies app using The Movie DB API with MVVM + Bloc. Features shimmer effects, caching, pagination, multi-search, trailers, and watchlist.</sub><br/>
+      🔗 <a href="https://github.com/mhmoudGamea/night-movie">Repo</a>
+      <br/>
+      <sub>Tags: flutter, dio, apis, moviedb, pagination, hive</sub>
+    </td>
 
-<!-- Project 2 -->
-<a href="https://github.com/mhmoudGamea/circle">
-  <img src="https://github.com/mhmoudGamea/circle/blob/main/demo_image/circle.png?raw=true"
-       alt="Circle Ecommerce App"
-       style="width:100%; max-width:400px; height:auto; object-fit:cover;"/>
-</a>
-<br/>
-**Circle Ecommerce App**  
-<sub>Dynamic e‑commerce app with phone auth, real‑time cart/order management, and flexible payments. Enhanced UX with shimmer animations and fast image loading using provider and Dio.</sub><br/>
-🔗 <a href="https://github.com/mhmoudGamea/circle">Repo</a><br/>
-<sub>Tags: flutter, auth, firebase, apis, provider</sub>
-
----
-
-<!-- Project 3 -->
-<a href="https://github.com/mhmoudGamea/night-movie">
-  <img src="https://github.com/mhmoudGamea/night-movie/blob/main/demo_image/night_movie.png?raw=true"
-       alt="Night Movies App"
-       style="width:100%; max-width:400px; height:auto; object-fit:cover;"/>
-</a>
-<br/>
-**Night Movies App**  
-<sub>Movies app using The Movie DB API with MVVM + Bloc for state management. Features shimmer effects, caching, pagination, multi‑search, trailers, and watchlist.</sub><br/>
-🔗 <a href="https://github.com/mhmoudGamea/night-movie">Repo</a><br/>
-<sub>Tags: flutter, dio, apis, moviedb, pagination, hive</sub>
+    <!-- Empty cell for alignment -->
+    <td align="center" width="50%"></td>
+  </tr>
+</table>
 
 ## Contact
   <!-- Gmail -->
