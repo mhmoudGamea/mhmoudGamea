@@ -67,12 +67,15 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </tr>
 </table>
 
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmoudGamea&show_icons=true&theme=tokyonight)
+
 ## Contact
 <!-- Gmail -->
 <a href="mailto:mahmoudgamea35@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email Me" width="40" height="40"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mahmoud-gamea-7537311a4" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40"/>
