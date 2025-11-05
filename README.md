@@ -15,24 +15,19 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 
-<div align="center">
+
 
 🎯 **Mahmoud Gamea** — Passionate Mobile Developer & Tech Innovator.  
 
-<br>
 
 🎯 I craft intelligent, high-performance Flutter apps that connect design, AI, and real-world functionality.  
 
-<br>
 
 🎯 Skilled in merging GPT-4 and DeepSeek Reasoner to build smart, data-driven experiences.  
 
-<br>
 
 🎯 Ambitious, detail-oriented, and always pushing boundaries to create impactful digital products.  
 
-</div>
- 
 
 
 
