@@ -3,26 +3,18 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:mahmoudgamea35@gmail.com" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
-      height="40" 
-      style="filter: invert(27%) sepia(91%) saturate(7471%) hue-rotate(357deg) brightness(94%) contrast(92%);" 
-      alt="Gmail"
-    />
-  </a>
-
+<h3>Where to find me</h3>
+<p>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mahmoud-gamea-7537311a4" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
-      height="40" 
-      style="filter: invert(28%) sepia(94%) saturate(5971%) hue-rotate(191deg) brightness(94%) contrast(93%);" 
-      alt="LinkedIn"
-    />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:mahmoudgamea35@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
