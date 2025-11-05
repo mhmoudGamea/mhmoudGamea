@@ -75,5 +75,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mahmoud-gamea-7537311a4" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40"/>
 </a>
