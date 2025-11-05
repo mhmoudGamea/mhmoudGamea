@@ -17,6 +17,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 **Also comfortable with**: Github Actions, Mobile Testing.
 
+## Projects – Showcase
+
 <table>
   <tr>
     <!-- Project 1 -->
