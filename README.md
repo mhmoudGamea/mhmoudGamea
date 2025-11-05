@@ -17,26 +17,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 
-<table>
-<tr>
-<td>
-
-🎯 Turning ambitious ideas into powerful, high-impact mobile experiences.  
-
-🎯 Designing apps that combine flawless performance, intuitive UX, and real-world value.  
-
-🎯 Committed to excellence, innovation, and pushing every project beyond limits.  
-
-🎯 Driven by curiosity, focus, and the constant desire to create meaningful work.  
-
-</td>
-<td>
-
-<a href="#"><img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="200" /></a>
-
-</td>
-</tr>
-</table>
+**`Mobile Application Developer (Flutter)`**
 
 
 
