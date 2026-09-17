@@ -67,9 +67,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </tr>
 </table>
 
-<--## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmoudGamea&show_icons=true&theme=tokyonight)--/>
-
 ## Contact
 
 <div align="center">
